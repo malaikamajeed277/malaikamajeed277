@@ -25,7 +25,7 @@ Currently, I’m exploring *Git and GitHub* to understand how projects and profi
    
 ### Projects 
 -Github profile README 
-https://github.com/malaikamajeed277
+https://github.com/malaikamajeed277/malaikamajeed277
 
 ### Connect with Me
 -Github:
