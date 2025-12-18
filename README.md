@@ -1,10 +1,6 @@
 
 ## Hi, I’m Malaika
-
-🎓 BS English Student  
-📍 Government College Women University Sialkot  
-
-I’m a student with a strong interest in *literature, linguistics, and learning new skills*.  
+I’m a student with a strong interest in *literature, linguistics, and learning new skills and programing language.  
 Currently, I’m exploring *Git and GitHub* to understand how projects and profiles are managed online.
 
 ## What I’m Learning
