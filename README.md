@@ -21,7 +21,11 @@ Currently, I’m exploring *Git and GitHub* to understand how projects and profi
 ### Goals
 - Improve my academic and professional skills  
 - Build confidence using GitHub  
-- Share my learning journey step by step  
+- Share my learning journey step by step
+   
+### Projects 
+-Github profile README 
+https://github.com/malaikamajeed277
 
 ### Fun Facts
 - I love reading novels and writing short stories   
@@ -29,9 +33,7 @@ Currently, I’m exploring *Git and GitHub* to understand how projects and profi
 - I enjoy learning something new every day   
 
 ### Connect with Me
-- 📧 Gmail: malaikamajeed461@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/malaika-majeed-688907393  
-
----
-⭐ This profile will be updated as I learn and grow
+-Github:
+https://github.com/malaikamajeed277
+- 🔗 LinkedIn: https://www.linkedin.com/in/malaika-majeed-688907393 
 
