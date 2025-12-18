@@ -27,11 +27,6 @@ Currently, I’m exploring *Git and GitHub* to understand how projects and profi
 -Github profile README 
 https://github.com/malaikamajeed277
 
-### Fun Facts
-- I love reading novels and writing short stories   
-- Coffee is my ultimate study buddy   
-- I enjoy learning something new every day   
-
 ### Connect with Me
 -Github:
 https://github.com/malaikamajeed277
