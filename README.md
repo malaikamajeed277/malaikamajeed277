@@ -28,3 +28,7 @@ https://github.com/malaikamajeed277/malaikamajeed277
 https://github.com/malaikamajeed277
 - 🔗 LinkedIn: https://www.linkedin.com/in/malaika-majeed-688907393 
 
+## Fun Fact
+- I can spend hours learning new tech just by breaking things and figuring out how they work!
+
+
